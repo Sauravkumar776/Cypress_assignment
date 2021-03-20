@@ -11,7 +11,7 @@ describe('cypress problem', () => {
     }
     )
     it('email address', () => {
-        cy.get('input[data-test-id=signup-email]').type('Sauravkumar69-march-19-2021-2142@example.com');
+        cy.get('input[data-test-id=signup-email]').type('Sauravkumar98-march-19-2021-2142@example.com');
         cy.get('input[data-test-id=signup-submit]').click();
         cy.get('input[data-test-id=signup-password').type('welcome1234!');
         cy.get('input[data-test-id=signup-continue]').click();

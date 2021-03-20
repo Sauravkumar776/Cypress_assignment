@@ -1,3 +1,4 @@
+![Screenshot (12)](https://user-images.githubusercontent.com/76429397/111879897-68d52700-89ce-11eb-870c-bccd2e9ae05b.png)
 # Cypress_assignment
 BigBinary Assignment
 
